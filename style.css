@@ -1,0 +1,15 @@
+body{
+    font-family: 'Anton', sans-serif;
+    background-color: rgb(156, 33, 33); 
+    color: azure;
+    text-align: center;
+    margin: 0 auto;
+}
+.resposta-filme{
+    font-size: 150%;
+    
+}
+
+h1{
+     margin-top: 10%;
+}
